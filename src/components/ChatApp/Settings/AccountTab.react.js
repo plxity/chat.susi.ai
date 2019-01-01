@@ -69,7 +69,7 @@ const AccountTab = props => {
         {props.voiceOutput.voiceMenu}
       </DropDownMenu>
       <br />
-      <div style={{ ...props.headingStyle, marginBottom: 0 }}>
+      <div style={{ ...props.headingStyle }}>
         <Translate text="Select TimeZone" />
       </div>
       <br />
