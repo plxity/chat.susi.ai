@@ -132,7 +132,7 @@ class Terms extends Component {
               </p>
               <h2>Privacy and Copyright Protection</h2>
               <p>
-                SUSI’s privacy policies ensures that your personal data is safe
+                SUSI’s privacy policies ensure that your personal data is safe
                 and protected. By using our Services, you agree that SUSI can
                 use such data in accordance with our privacy policies.
                 <br />
@@ -200,7 +200,7 @@ class Terms extends Component {
                 Most of our services are offered through Free Software and/or
                 Open Source Software. You may copy, modify, distribute, sell, or
                 lease these applications and share the source code of that
-                software as stated in the License agreement provided with the
+                software as stated in the License Agreement provided with the
                 Software.
                 <br />
                 <br />
@@ -256,10 +256,10 @@ class Terms extends Component {
                 <br />
                 <br />
                 To the extent permitted by law, the total liability of SUSI, and
-                its suppliers and distributors, for any claims under these
-                terms, including for any implied warranties, is limited to the
-                amount you paid us to use the Services (or, if we choose, to
-                supplying you the Services again).
+                its suppliers and distributors for any claims under these terms,
+                including for any implied warranties, is limited to the amount
+                you paid us to use the Services (or, if we choose, to supplying
+                you the Services again).
                 <br />
                 <br />
                 In all cases, SUSI, and its suppliers and distributors, will not
@@ -282,7 +282,7 @@ class Terms extends Component {
                 indemnify SUSI and its affiliates, officers, agents, and
                 employees from any claim, suit or action arising from or related
                 to the use of the Services or violation of these terms,
-                including any liability or expense arising from claims, losses ,
+                including any liability or expense arising from claims, losses,
                 damages, suits, judgments, litigation costs and attorneys’ fees.
                 <br />
                 <br />
@@ -296,7 +296,7 @@ class Terms extends Component {
                 post notice of modified additional terms in the applicable
                 Service. Changes will not apply retroactively and will become
                 effective no sooner than fourteen days after they are posted.
-                However,changes addressing new functions for a Service or
+                However, changes addressing new functions for a Service or
                 changes made for legal reasons will be effective immediately. If
                 you do not agree to the modified terms for a Service, you should
                 discontinue your use of that Service.
