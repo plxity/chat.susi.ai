@@ -250,16 +250,16 @@ class Terms extends Component {
               <h2>Liability for our Services</h2>
               <p>
                 When permitted by law, SUSI, and SUSI’s suppliers and
-                distributors, will not be responsible for lost profits,
-                revenues, or data, financial losses or indirect, special,
-                consequential, exemplary, or punitive damages.
+                distributors will not be responsible for lost profits, revenues,
+                or data, financial losses or indirect, special, consequential,
+                exemplary, or punitive damages.
                 <br />
                 <br />
                 To the extent permitted by law, the total liability of SUSI, and
-                its suppliers and distributors for any claims under these terms,
-                including for any implied warranties, is limited to the amount
-                you paid us to use the Services (or, if we choose, to supplying
-                you the Services again).
+                its suppliers and distributors, for any claims under these
+                terms, including for any implied warranties, is limited to the
+                amount you paid us to use the Services (or, if we choose, to
+                supplying you the Services again).
                 <br />
                 <br />
                 In all cases, SUSI, and its suppliers and distributors, will not
@@ -283,7 +283,8 @@ class Terms extends Component {
                 employees from any claim, suit or action arising from or related
                 to the use of the Services or violation of these terms,
                 including any liability or expense arising from claims, losses,
-                damages, suits, judgments, litigation costs and attorneys’ fees.
+                damages, suits, judgments, litigation costs, and attorneys’
+                fees.
                 <br />
                 <br />
               </p>
